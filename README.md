@@ -1,5 +1,7 @@
 # vanilla_sol
 
+PubKeys are 32byte strings 
+
 
 
 cargo build-bpf
