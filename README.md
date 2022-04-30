@@ -10,4 +10,4 @@ solana config set -u d
 
 solana airdrop 2
 
-solana program deploy <program.so>
+solana program deploy <path/to/program.so>
