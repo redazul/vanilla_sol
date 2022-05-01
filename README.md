@@ -5,10 +5,6 @@ Keypairs: 64 bytes
 
 [32:63] Pk
 
-PubKeys are 32byte strings 
-
-
-
 cargo build-bpf
 
 solana-keygen new
