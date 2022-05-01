@@ -1,4 +1,9 @@
 # vanilla_sol
+Keypairs: 64 bytes
+
+[0:31] SK
+
+[32:64] Pk
 
 PubKeys are 32byte strings 
 
