@@ -3,7 +3,7 @@ Keypairs: 64 bytes
 
 [0:31] SK
 
-[32:64] Pk
+[32:63] Pk
 
 PubKeys are 32byte strings 
 
